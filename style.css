@@ -163,7 +163,7 @@ h1{
   
    .black{
     display: inline;
-    width: 50%;
+    width: 30%;
     float: left;
    height: 1000px;
    
@@ -173,7 +173,7 @@ h1{
    
    .img{
     display: inline;
-    width: 50%;
+    width: 70%;
     float: right;
     object-fit: none;
     
@@ -204,29 +204,4 @@ h1{
    
    
    
-    background: none !important;
-   
-
-.header{
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-   
-   display: flex;
-  justify-content:space-between;
-    align-items: center;
-    z-index: 100;
-}
-.navbar a{
-    font-size: 18px;
-    color: black;
-    margin-left: 20px;
-}
-ul a{
-    display: flex;
-}
-   
- 
-   
- 
+  
