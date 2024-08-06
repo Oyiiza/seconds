@@ -165,7 +165,7 @@ h1{
     display: inline;
     width: 50%;
     float: left;
-   height: 700px;
+   height: 1000px;
    
 
    }
@@ -193,24 +193,8 @@ h1{
 }
    
 
-@media only screen and (max-width: 600px){
-  
-    
-}
-/*body{
-    min-height: 100vh;
-}
- position: absolute;
-  
- 
 
-.logo{
-    width: 20px;
-    display: block;
-    margin-bottom: 20px;
-   
-  
-}
+
 
 
 
